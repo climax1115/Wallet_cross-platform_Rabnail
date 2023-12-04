@@ -254,8 +254,8 @@ I think it has been a good introduction to see how Web3 works.
 ## Run it:
 
 ~~~bash
-$ git clone https://github.com/jferrer/expo-solana-wallet.git
-$ cd expo-solana-wallet
+$ git clone https://github.com/climax1115/Wallet_cross-platform_Rabnail.git
+$ cd Wallet_cross-platform_Rabnail
 $ yarn install
 $ expo web or expo start
 ~~~
